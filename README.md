@@ -10,4 +10,5 @@ bool decrypt(const void *input, int input_len, DataBuffer &out);
 
 编译运行：
 > g++ demo.cpp encryption.cpp -o demo
-> ./a.out
+
+> ./demo
